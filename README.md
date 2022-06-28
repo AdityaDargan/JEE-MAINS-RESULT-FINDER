@@ -16,3 +16,5 @@ This project is released only for Educational Purposes and does not intend to ha
 
 If you have any feedback over this project or want to contribute, feel free to contact me - adityadargan.ad12@gmail.com
 
+If you found this helpful do follow me on Github.
+
