@@ -27,6 +27,8 @@
 
 - This project is released only for Educational Purposes and does not intend to harm anyone's sentiments.
 
+- Author or Contributors would not be responsible for any kind of misconduct by the project. Use this at your own risk.
+
 ### Author - [@AdityaDargan](https://github.com/AdityaDargan)
 
 ## Support 
