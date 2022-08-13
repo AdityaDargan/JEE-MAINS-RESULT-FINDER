@@ -1,5 +1,24 @@
 
-# JEE   MAINS   RESULT_FINDER
+# JEE   MAINS   RESULT_FINDER v2.0
+
+## Updates 
+
+- An executable file is made and hence anyone can use this app without any prerequisites or any coding knowledge.
+
+- Added options to check the JEE Mains scorecard of students from 2020, 2021, 2022 sessions of JEE.
+
+- Improved the time complexity and hence now the results could be found in lesser time.
+
+- As more and more results are found using this app the time taken to find a result will keep on decreasing.
+
+- This is a CPU intensive program so a better CPU and better Internet will fetch the result quickly.
+
+- You can visit the readme file in the folder or can contact me if you're having any trouble using this app.
+
+- To extract the file download the Result.Finder.exe file and click on - more info > run anyway >select the location > Extract.
+
+- You can see the code attached to know the basic logic of how a result is found.
+
 ## Features
 
 - This project is made to check JEE Mains result of students with just their application number. 
