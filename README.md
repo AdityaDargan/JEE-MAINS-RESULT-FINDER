@@ -1,11 +1,11 @@
 
-# JEE   MAINS   RESULT_FINDER v2.0
+# JEE   MAINS   RESULT_FINDER v3.0
 
 ## Updates 
 
 - An executable file is made and hence anyone can use this app without any prerequisites or any coding knowledge.
 
-- Added options to check the JEE Mains scorecard of students from 2020, 2021, 2022 sessions of JEE.
+- Added options to check the JEE Mains scorecard of students from 2020-2023 sessions of JEE.
 
 - Improved the time complexity and hence now the results could be found in lesser time.
 
