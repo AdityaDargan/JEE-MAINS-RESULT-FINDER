@@ -27,14 +27,7 @@
 - With slight modifications this code can be used to login to sites that requires logging with DOB.
 
 ## Requirements
-
-- [Python](https://www.python.org/)   
-- [Brave Browser](https://brave.com/download/)   
-- [Chrome Driver](https://chromedriver.chromium.org/downloads)
-- [Pytesseract](https://github.com/UB-Mannheim/tesseract/wiki)    
-- [Selenium](https://www.selenium.dev/documentation/)
-- [OpenCV](https://docs.opencv.org/4.x/)      
-- [MultiProcessing](https://docs.python.org/3/library/multiprocessing.html)
+  All dependencies are mentioned inside the code only
 
 ## License
 [![BSD License](https://img.shields.io/pypi/l/pypi)](https://opensource.org/licenses/BSD-3-Clause)
