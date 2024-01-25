@@ -1,6 +1,6 @@
 ################ Requirements ######################
 
-# You have to install the 'assets/pytesseract' folder in the directory where you are running the code - you can get this from the zip file present on my gihtub.
+# You have to install the 'assets/pytesseract' folder in the directory where you are running the code - you can get this from release of v3.0 present on my gihtub.
 
 # The screenshots of the results would also be stored in the same directory
 
