@@ -1,11 +1,11 @@
 
-# JEE   MAINS   RESULT_FINDER v2.0
+# JEE   MAINS   RESULT_FINDER v3.0
 
 ## Updates 
 
 - An executable file is made and hence anyone can use this app without any prerequisites or any coding knowledge.
 
-- Added options to check the JEE Mains scorecard of students from 2020, 2021, 2022 sessions of JEE.
+- Added options to check the JEE Mains scorecard of students from 2020 - 2023 sessions of JEE.
 
 - Improved the time complexity and hence now the results could be found in lesser time.
 
@@ -28,13 +28,7 @@
 
 ## Requirements
 
-- [Python](https://www.python.org/)   
-- [Brave Browser](https://brave.com/download/)   
-- [Chrome Driver](https://chromedriver.chromium.org/downloads)
-- [Pytesseract](https://github.com/UB-Mannheim/tesseract/wiki)    
-- [Selenium](https://www.selenium.dev/documentation/)
-- [OpenCV](https://docs.opencv.org/4.x/)      
-- [MultiProcessing](https://docs.python.org/3/library/multiprocessing.html)
+  Mentioned at the top of the code
 
 ## License
 [![BSD License](https://img.shields.io/pypi/l/pypi)](https://opensource.org/licenses/BSD-3-Clause)
